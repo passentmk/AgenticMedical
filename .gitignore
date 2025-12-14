@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Packaging
+pip-wheel-metadata/
+
+# Pytest/Mypy
+.pytest_cache/
+.mypy_cache/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.venv
+
+# OS files
+.DS_Store
